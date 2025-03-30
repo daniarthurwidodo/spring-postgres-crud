@@ -12,7 +12,6 @@ import org.springframework.data.jpa.domain.Specification;
 import java.math.BigDecimal;
 import java.util.HashMap;
 import java.util.Map;
-import java.util.List;
 
 @RestController
 @RequestMapping("/api/products")
